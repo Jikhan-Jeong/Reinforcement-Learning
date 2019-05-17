@@ -5,7 +5,7 @@ Created on Tue Dec  4 14:03:19 2018
 @author: Jikhan Jeong
 """
 
-## 2018 CPTS 570 Grid World Q learning by Jikhan Jeong
+## 2018Grid World Q learning by Jikhan Jeong
 ## 10 x 10 environment
 ## Discount Factor = 0.9
 ## Learning Rate   = 0.01
