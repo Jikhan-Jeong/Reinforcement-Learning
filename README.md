@@ -2,11 +2,11 @@
 
 This is for designing 
 
-(1) Automate Smart Stock Trading
+# (1) Automate Smart Stock Trading
  - 1. building a better prediction for the stock price movement
  - 2. Automate with discrete state (sell/buy) and continous state by approximating (price)
  
-(2) Automate Smart Thermostat
+# (2) Automate Smart Thermostat
  - 1. control state (discrete)
  - 2. temperature state (continuous)
 
