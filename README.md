@@ -39,6 +39,21 @@ Lab 7-4: DQN Simple Pacman Demo
 (slide) https://web.stanford.edu/class/cs234/schedule.html  
 (video) https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u  
 
+1. 	Introduction to Reinforcement Learning  (done)
+2.  How to act given know how the world works  
+3.  Learning to evaluate a policy when don't know how the world works  
+4.  Modelfree learning to make good decision
+5.  Scaling up: RL with function approximation  
+6.  RL with function approximation  
+7.  Imitation learning in large spaces  
+8.  Policy search  
+9.  Policy search
+10. Exploration/Exploitation
+11. Exploration/Exploitation
+12. Meta-Learning 
+13. Batch Reinforcement Learning
+14. Monte Carlo Tree Search
+
 # Berkeley DRL Lecture
 (slide) http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html#lecture-videos  
 (video) https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3  
