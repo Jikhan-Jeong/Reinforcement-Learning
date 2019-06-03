@@ -13,9 +13,10 @@ This is for designing
 Therefore, I need to learn deeper
 
 # Basic RL and DRL with Open Gym (Korean)
+
 reference: https://hunkim.github.io/ml/
 
-Lecture 1: Intro (done)
+Lecture 1: Intro (done)\n
 Lecture 2: OpenAI GYM (done)
 Lab 2: OpenAI GYM 게 (done)
 Lecture 3: Dummy Q-learning (table)  (done)
