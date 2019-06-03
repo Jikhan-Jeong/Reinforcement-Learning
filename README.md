@@ -18,7 +18,7 @@ reference: https://hunkim.github.io/ml/
 
 Lecture 1: Intro (done)  
 Lecture 2: OpenAI GYM (done)  
-Lab 2: OpenAI GYM 게 (done)  
+Lab 2: OpenAI GYM  (done)  
 Lecture 3: Dummy Q-learning (table)  (done)  
 Lab 3: Dummy Q-learning (table)  (done)  
 Lecture 4: Q-learning exploit&exploration and discounted reward   
@@ -42,6 +42,9 @@ Lab 7-4: DQN Simple Pacman Demo
 # Berkeley DRL Lecture
 (slide) http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html#lecture-videos  
 (video) https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3  
+
+# DRL Hands-on
+(code) https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On
 
 # OpenAI Spinning Up
 reference: https://spinningup.openai.com/en/latest/  
