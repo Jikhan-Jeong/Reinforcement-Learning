@@ -21,8 +21,8 @@ Lecture 2: OpenAI GYM (done)
 Lab 2: OpenAI GYM  (done)  
 Lecture 3: Dummy Q-learning (table)  (done)  
 Lab 3: Dummy Q-learning (table)  (done)  
-Lecture 4: Q-learning exploit&exploration and discounted reward   
-Lab 4: Q-learning exploit&exploration and discounted reward   
+Lecture 4: Q-learning exploit&exploration and discounted reward (done)
+Lab 4: Q-learning exploit&exploration and discounted reward (done)   
 Lecture 5: Q-learning in non-deterministic world  
 Lab 5: Q-learning in non-deterministic world   
 Lab 5-1: Q-learning web Demo   
