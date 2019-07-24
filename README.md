@@ -64,3 +64,7 @@ Lab 7-4: DQN Simple Pacman Demo
 # OpenAI Spinning Up
 reference: https://spinningup.openai.com/en/latest/  
 
+# Tutorial in Medium   
+(series) https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.4gyadb8a4  
+
+(code) https://github.com/awjuliani/DeepRL-Agents  
